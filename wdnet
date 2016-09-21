@@ -1,0 +1,38 @@
+VERSION=1.0
+N=12   L=24   
+I=0    W=SENT-END            
+I=1    W=gehen               
+I=2    W=!NULL               
+I=3    W=Kino                
+I=4    W=ins                 
+I=5    W=Abend               
+I=6    W=heute               
+I=7    W=moechte             
+I=8    W=ich                 
+I=9    W=SENT-START          
+I=10   W=!NULL               
+I=11   W=!NULL               
+J=0     S=2    E=0    
+J=1     S=2    E=1    
+J=2     S=9    E=1    
+J=3     S=1    E=2    
+J=4     S=3    E=2    
+J=5     S=4    E=2    
+J=6     S=5    E=2    
+J=7     S=6    E=2    
+J=8     S=7    E=2    
+J=9     S=8    E=2    
+J=10    S=2    E=3    
+J=11    S=9    E=3    
+J=12    S=2    E=4    
+J=13    S=9    E=4    
+J=14    S=2    E=5    
+J=15    S=9    E=5    
+J=16    S=2    E=6    
+J=17    S=9    E=6    
+J=18    S=2    E=7    
+J=19    S=9    E=7    
+J=20    S=2    E=8    
+J=21    S=9    E=8    
+J=22    S=11   E=9    
+J=23    S=0    E=10   

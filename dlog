@@ -1,0 +1,33 @@
+WARNING: no script file global.ded
+WARNING: no script file german_lexicon.lex.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+german_lexic      1999          7       2000          7
+        dict         7          7          7          7
+
+7 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :     1
+  2. b     :     1
+  3. n     :     4
+  4. t     :     3
+  5. sp    :     7
+  6. k     :     1
+  7. i     :     1
+  8. O     :     1
+  9. g     :     1
+ 10. e     :     1
+ 11. at    :     3
+ 12. h     :     1
+ 13. OY    :     1
+ 14. I     :     2
+ 15. C     :     2
+ 16. s     :     1
+ 17. m     :     1
+ 18. OE    :     1
+
+Dictionary dict created

@@ -1,0 +1,2 @@
+$word = ich | moechte | heute | Abend | ins | Kino | gehen;
+(SENT-START <$word> SENT-END)
